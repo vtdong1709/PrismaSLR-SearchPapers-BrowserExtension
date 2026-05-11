@@ -43,9 +43,9 @@ chrome://extensions/
 
 ## Future Improvements
 
-* Direct integration with PrismaSLR web system
+* Automatically import Full-text PDF of papers to system
 * Improved UI/UX
-* Advanced filtering (year, citations, authors)
+* Advanced filtering (citations, authors)
 * Support for BibTeX and CSV export
 
 ## Author
