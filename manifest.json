@@ -1,0 +1,20 @@
+{
+  "name": "PrismaSLR Paper Query",
+  "description": "Search papers from sources",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "assets/images/prisma_slr_logo.png"
+  },
+  "host_permissions": [
+    "http://localhost:5777/*",
+    "http://localhost:5173/*"
+  ],
+  "permissions": [
+    "downloads",
+    "storage",
+    "tabs",
+    "scripting"
+  ]
+}
